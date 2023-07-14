@@ -1,6 +1,6 @@
-###**LISTADO DE QUERIES PARA PROBAR LA APP**
+###LISTADO DE QUERIES PARA PROBAR LA APP
 
-####Mostrar todos los usuarios
+###Mostrar todos los usuarios
 
 [Mostrar Usuarios](http://localhost:3000/api/usuarios)
 
